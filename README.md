@@ -49,3 +49,5 @@
 - Evaluate the performance of the pipelined processor, considering factors such as throughput, cycle time, and potential bottlenecks.
 - Optimize the design iteratively based on simulation results.
 
+# For more details and insights, you can access my portfolio. 🚀
+https://sites.google.com/kletech.ac.in/daiviksportfolio/home
