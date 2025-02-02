@@ -49,5 +49,10 @@
 - Evaluate the performance of the pipelined processor, considering factors such as throughput, cycle time, and potential bottlenecks.
 - Optimize the design iteratively based on simulation results.
 
+# Main Circuit:-
+![image](https://github.com/user-attachments/assets/6ee22069-29b9-4055-8b0c-a204e6c26dc2)
+
+
+
 # For more details and insights, you can access my portfolio. 🚀
 https://sites.google.com/kletech.ac.in/daiviksportfolio/home
